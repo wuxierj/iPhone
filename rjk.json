@@ -1,10 +1,12 @@
 {
-  "global_password": "666",
+  "global_password": "2026",
+  "password_version": "v1",
   "password_placeholder": "请输入统一下载密码",
   "password_error_text": "密码错误，请重试",
   "password_modal_title": "下载验证",
   "footer_text_auth": "今日已验证 · 下载免密",
   "footer_text_unauth": "首次下载需验证密码（当日有效）",
+  "password_update_notice": "后台密码已更新，需要重新验证",
   "software_list": [
     {
       "name": "ProCam 8",
@@ -21,11 +23,32 @@
       "transform_tutorial": "变身步骤：\n1. 导入素材后点击「变身特效」\n2. 选择 LUT 调色预设一键变色\n3. 添加转场变身丝滑过渡\n4. 使用关键帧变身动态字幕\n5. 导出 4K HDR 变身专业影片"
     },
     {
+      "name": "GoodNotes 6",
+      "type": "效率笔记",
+      "update_date": "2026-05-06",
+      "download_link": "https://apps.apple.com/app/id111222333",
+      "transform_tutorial": "变身步骤：\n1. 创建笔记本后点击右上角魔法棒\n2. 开启「手写变身文本」功能\n3. 书写内容自动变成标准文字\n4. 导入 PDF 变身可编辑版本\n5. 多设备 iCloud 同步变身云笔记"
+    },
+    {
       "name": "Shadowrocket",
       "type": "网络工具",
       "update_date": "2026-05-09",
       "download_link": "https://apps.apple.com/app/id444555666",
       "transform_tutorial": "变身步骤：\n1. 点击右上角变身图标添加规则\n2. 导入变身配置文件(.conf)\n3. 开启「智能变身」自动优选节点\n4. 设置分流变身不同网络场景\n5. 连接成功变身安全上网模式"
+    },
+    {
+      "name": "Final Cut Pro",
+      "type": "专业剪辑",
+      "update_date": "2026-05-07",
+      "download_link": "https://apps.apple.com/app/id555666777",
+      "transform_tutorial": "变身步骤：\n1. 导入视频后点击变身时间轴\n2. 添加特效变身电影级画面\n3. 使用调色板变身专业配色\n4. 音效库变身沉浸式音频\n5. 导出母带变身最终作品"
+    },
+    {
+      "name": "Things 4",
+      "type": "任务管理",
+      "update_date": "2026-05-05",
+      "download_link": "https://apps.apple.com/app/id888999000",
+      "transform_tutorial": "变身步骤：\n1. 创建项目后点击变身视图\n2. 设置标签变身智能分类\n3. 日历同步变身时间管理\n4. 快捷手势变身高效操作\n5. 多端同步变身全平台工具"
     }
   ]
 }
