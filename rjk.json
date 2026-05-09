@@ -1,0 +1,31 @@
+{
+  "global_password": "apple2025",
+  "password_placeholder": "请输入统一下载密码",
+  "password_error_text": "密码错误，请重试",
+  "password_modal_title": "下载验证",
+  "footer_text_auth": "今日已验证 · 下载免密",
+  "footer_text_unauth": "首次下载需验证密码（当日有效）",
+  "software_list": [
+    {
+      "name": "ProCam 8",
+      "type": "摄影与录像",
+      "update_date": "2026-05-08",
+      "download_link": "https://apps.apple.com/app/id123456789",
+      "transform_tutorial": "变身步骤：\n1. 打开 ProCam 8 进入设置\n2. 选择「变身模式」激活专业功能\n3. 调整手动对焦与曝光参数\n4. 开启 RAW 格式变身专业相机\n5. 支持 4K 视频变身电影级画质"
+    },
+    {
+      "name": "LumaFusion",
+      "type": "视频剪辑",
+      "update_date": "2026-05-09",
+      "download_link": "https://apps.apple.com/app/id987654321",
+      "transform_tutorial": "变身步骤：\n1. 导入素材后点击「变身特效」\n2. 选择 LUT 调色预设一键变色\n3. 添加转场变身丝滑过渡\n4. 使用关键帧变身动态字幕\n5. 导出 4K HDR 变身专业影片"
+    },
+    {
+      "name": "Shadowrocket",
+      "type": "网络工具",
+      "update_date": "2026-05-09",
+      "download_link": "https://apps.apple.com/app/id444555666",
+      "transform_tutorial": "变身步骤：\n1. 点击右上角变身图标添加规则\n2. 导入变身配置文件(.conf)\n3. 开启「智能变身」自动优选节点\n4. 设置分流变身不同网络场景\n5. 连接成功变身安全上网模式"
+    }
+  ]
+}
