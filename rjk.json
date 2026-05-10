@@ -9,8 +9,8 @@
   "password_update_notice": "后台密码已更新，需要重新验证",
   "software_list": [
     {
-      "name": "ProCam 8",
-      "type": "摄影与录像",
+      "name": "小说软件",
+      "type": "小说",
       "update_date": "2026-05-08",
       "download_link": "https://apps.apple.com/app/id123456789",
       "transform_tutorial": "变身步骤：\n1. 打开 ProCam 8 进入设置\n2. 选择「变身模式」激活专业功能\n3. 调整手动对焦与曝光参数\n4. 开启 RAW 格式变身专业相机\n5. 支持 4K 视频变身电影级画质"
